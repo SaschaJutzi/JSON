@@ -1,6 +1,5 @@
 {
   "posts": [
-[
   {
     "id": 1,
     "category": "animal welfare",
@@ -12,7 +11,6 @@
       "catering": true,
       "music": true
     }
-]
   ],
   "profile": {
     "name": "typicode"
